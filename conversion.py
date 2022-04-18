@@ -1,10 +1,12 @@
-print(bin(10))
-print(hex(10))
-print(int('0b1010', 2))
-print(int('0xa', 16))
-print(abs(-432))
-print(round(5.5))
-print(round(5.4))
-print(eval('2+5'))
-n = 10
-print(eval('n*10 - 5'))
+multiplos = []
+
+# Completa el ejercicio 
+numero = int(input())
+while numero < 0 or numero > 9:
+    numero = int(input())
+if numero == 0:
+    multiplos = [0]
+else:
+    multiplos = list(range(0, 101, numero))
+
+print(multiplos)
