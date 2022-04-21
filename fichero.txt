@@ -1,4 +1,4 @@
-Texto
+Esta linea la modifique usando el modo r+
 Otra linea
-Otra linea mas con texto
-Cuarta linea
+Modifique esta linea desde el script
+Otra linea mas de texto

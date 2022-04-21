@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-from collections import Counter
-=======
 from collections import Counter, defaultdict, namedtuple
 from typing import OrderedDict
->>>>>>> e2f97f1f936871c4e22e6772ca2541713d05c589
 
 l = [1,2,3,4,1,2,3,1,2,1]
 print(Counter(l))
@@ -33,8 +29,6 @@ print(c.keys())
 print(c.values())
 # contador como len()
 sum(c.values())
-<<<<<<< HEAD
-=======
 
 # Para que los diccionarios no den error cuando se intenta
 # acceder a una clave que no es valida, podemos importar el modulo
@@ -109,4 +103,3 @@ print(type(p))
 print(p[0])
 print(p[1])
 print(p[2])
->>>>>>> e2f97f1f936871c4e22e6772ca2541713d05c589
