@@ -1,0 +1,6 @@
+[
+    {"nombre": "Manuel", "trabajo": "Desarrollador Web", "email": "manuelejemplo.com"},
+    {"nombre": "Lorena", "trabajo": "Gestora de proyectos", "email": "1lorena@ejemplo.com"},
+    {"nombre": "Javier", "trabajo": "Analista de datos", "email": "javiereejemplo.com"},
+    {"nombre": "Marta", "trabajo": "Experta en Python", "email": "marta@ejemplo.com"}
+]
