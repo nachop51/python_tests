@@ -1,4 +1,1 @@
-Esta linea la modifique usando el modo r+
-Otra linea
-Modifique esta linea desde el script
-Otra linea mas de texto
+Hola! esto esta modificado desde popups2.py de tkinterstests
