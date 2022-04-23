@@ -8,7 +8,7 @@ print(resta(12, 40))
 print(resta(a=10, b=5))
 print(resta(b=10, a=5))
 
-def doblar_valores (numeros):
+def doblar_valores(numeros):
     for i,n in enumerate(numeros):
         numeros [i] *= 2
 ns = [10,50,100]
