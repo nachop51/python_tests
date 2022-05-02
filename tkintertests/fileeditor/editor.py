@@ -70,7 +70,7 @@ menubar.add_cascade(menu=filemenu, label="File")
 # Espacio para escribir
 texto= Text(root)
 texto.pack(fill="both", expand=1)
-texto.config(bd=0, padx=5, pady=5, font=("Consolas", 12))
+texto.config(bd=0, padx=5, pady=5, font=("Cascadia Code", 12))
 texto.config(selectbackground="#404859", bg="#282C34", fg="#CCCCCC", insertbackground="#528BFF", insertwidth=2)
 
 # Monitor inferior
